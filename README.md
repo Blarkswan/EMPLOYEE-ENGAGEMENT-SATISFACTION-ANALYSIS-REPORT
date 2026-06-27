@@ -90,3 +90,5 @@ e. 	Continuous Monitoring: Employee engagement should be monitored through perio
 ### 7. Conclusion
 The analysis demonstrates that employee engagement across the organization is generally positive, with strong performance in role clarity and supervisor support. However, opportunities remain to strengthen employee recognition, professional development, and workplace relationships. The Power BI dashboard provides HR leaders and management with an interactive tool for monitoring engagement trends, identifying departmental differences, and supporting data-driven workforce decisions.
 
+Find Live interaction with Dashboard [Here](https://app.powerbi.com/groups/me/reports/8dfd3501-a279-44c4-aaa4-8a4d01230c8f/81ad2444b51b2036129b?experience=power-bi)
+
